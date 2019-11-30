@@ -4,8 +4,26 @@ title: Supporters
 permalink: /supporters/
 ---
 
-# Supporters 
 This community has been blessed with generous support from many companies in egypt so far, we're listing them here as a sign of gratitude for their endless help and support!
+
+<style>
+    .cf {
+        text-align: center;
+    }
+    .cf .sponsor {
+        display: inline-block;
+        margin-right: 30px;
+        margin-bottom: 25px;
+    }
+    .cf .sponsor img {
+        max-width: 200px;
+        opacity: 0.7;
+        transition: all 0.3s ease;
+    }
+    .cf .sponsor img:hover, .cf .sponsor img:focus {
+        opacity: 1;
+    }
+</style>
 
 
 <div data-name="component">
@@ -26,12 +44,21 @@ This community has been blessed with generous support from many companies in egy
                     <img src="../images/robusta.png" alt="Robusta" class="w-100 db black-10">
                 </a>
             </div>
+            <div class="sponsor">
+                <a href="//eventtus.com/" target="_blank" class="link dim tc">
+                    <img src="../images/eventtus.png" alt="Eventtus" class="w-100 db black-10">
+                </a>
+            </div>
+            <div class="sponsor">
+                <a href="//www.elmenus.com/" target="_blank" class="link dim tc">
+                    <img src="../images/elmenus.png" alt="elmenus" class="w-100 db black-10">
+                </a>
+            </div>
+            <div class="sponsor">
+                <a href="//kamelizer.com/" target="_blank" class="link dim tc">
+                    <img src="../images/kamelizer.png" alt="Kamelizer" class="w-100 db black-10">
+                </a>
+            </div>
         </div>
     </article>
 </div>
-
-
-
-
--- 
-Shipped with ❤️ in Cairo.
