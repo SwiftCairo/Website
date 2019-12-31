@@ -6,6 +6,8 @@ permalink: /supporters/
 
 This community has been blessed with generous support from many companies in egypt so far, we're listing them here as a sign of gratitude for their endless help and support!
 
+You can also support us on Patreon now! <a href="https://www.patreon.com/bePatron?u=28757151" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 <style>
     .cf {
         text-align: center;
